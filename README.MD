@@ -3,18 +3,11 @@
 우리들의 목적은 수 많은 무료 플러그인들을 개발하여 많은 마인크래프트 서버들이 생겨났으면 하는 생각으로 개발하였습니다.
 마인크래프트 서버를 열고 싶어도 구하기 어려운 플러그인들이 다수 있기에 해당 프로젝트를 기획하였습니다.
 이 Github에는 마인크래프트 플러그인 개발자들을 위하여 일부 무료 플러그인들을 소스코드로 공개할 예정입니다.</div>  
-  
-
-<br/>  
-
+<br/>
 
 ## 자주 사용하는 기술
 <table><tr><td valign="top" width="33%">
-
-
-
 </td><td valign="top" width="33%">
-
 <div align="center">  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
@@ -34,32 +27,14 @@
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a> 
 </div>
-
 </td><td valign="top" width="33%">
-
-
-
 </td></tr></table>  
+<br/>
 
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/loneproject" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
+## Github 정보 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=loneproject&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
 <br/>  
 
 ----
