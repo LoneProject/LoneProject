@@ -8,7 +8,7 @@
 <br/>  
 
 
-## My Skill Set  
+## 자주 사용하는 기술
 <table><tr><td valign="top" width="33%">
 
 
