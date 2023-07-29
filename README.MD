@@ -38,4 +38,4 @@
 <br/>  
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">우리들의 <a href="https://loneproject.org" target="_blank">LoneProject 홈페이지</a></div>
