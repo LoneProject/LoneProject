@@ -38,8 +38,5 @@
 <br/>
 
 ## Github 정보 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=loneproject&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=lone64Plugins&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 <br/>  
-
-----
-<div align="center">우리들의 <a href="https://loneproject.org" target="_blank">LoneProject 홈페이지</a></div>
